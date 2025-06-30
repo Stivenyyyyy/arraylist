@@ -1,4 +1,4 @@
-﻿using System.Collections;
+﻿
 //El siguiente programa lee cinco numeros y al final indica el mayor y el menor 
 //Y la suma de los elementos
 ArrayList lista = new();
