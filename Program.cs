@@ -1,5 +1,5 @@
 ﻿using System.Collections;
-
+//El siguiente programa lee cinco numeros y al final indica el mayor y el menor 
 ArrayList lista = new();
 Console.Write("Ingrese un numero separados por espacio: ");
 lista.AddRange(Array.ConvertAll(Console.ReadLine().Split(), int.Parse));
